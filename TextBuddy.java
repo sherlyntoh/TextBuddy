@@ -6,8 +6,8 @@
  * The user can specify which file to be used, add value, display content, delete value,
  * clear whole content, exit the program and automatically saved into the file specify.
  * 
- * Author: Sherlyn Toh Hui Hsian
- * Matrix No: A0126288
+ * Author: Sherlyn Toh
+ * Matrix No: XXXXXXXX
  * 
  * Reasonable assumption about program behavior
  * 1. The program checks for any existing file with the same filename
